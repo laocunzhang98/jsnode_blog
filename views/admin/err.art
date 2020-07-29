@@ -1,0 +1,4 @@
+{{extend './common/layout.art'}}
+{{block 'main'}}
+{{msg}}
+{{/block}}
